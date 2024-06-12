@@ -27,6 +27,9 @@ npm run android
 yarn android
 ```
 
+## Passo 3: Rode o projeto backend 
+- aponte o backend para a porta: 8000 
+
 ### Funcionalidades
 
 - Login
